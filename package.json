@@ -1,0 +1,14 @@
+{
+  "name": "coding-challange",
+  "version": "1.0.0",
+  "description": "This is my own wc tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "saadkhaleeq",
+  "license": "ISC"
+}
